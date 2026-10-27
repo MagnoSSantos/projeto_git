@@ -1,3 +1,6 @@
+"""Testando o novo branch, fazendo o exercicio de 
+comentar o programa."""
+
 # Peça dois números inteiro ao utilizador 
 num1 = int(input('Digite um número: '))
 num2 = int(input('Digite outro número: '))
