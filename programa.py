@@ -10,3 +10,4 @@ if num1 == num2:
 
 else:
     print('Os números não são iguais. ')
+print('Exercício da atividade 4.6 concluído!')
